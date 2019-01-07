@@ -70,6 +70,15 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 #### Day 2 - HTML/CSS
 
+- HTML & CSS
+  - [Slides](01-junior-phase/02-html-css/html-and-css.pdf)
+
+- Intro to Boxing
+  - [Slides](01-junior-phase/02-html-css/intro-to-boxing.pdf)
+
+- Flexbox
+  - [Slides](01-junior-phase/02-html-css/flexbox.pdf)
+
 #### Day 3 - Collaboration
 
 #### Day 4 - The DOM
