@@ -56,10 +56,17 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 - Stacks, Queues, Linked Lists
   - [Lecture](https://youtu.be/a9rEIJJKH5k)
   - [Slides](01-junior-phase/01-data-structures/01-stacks-queues-lists.pdf)
+  - [Pair Exercise: Linked List Solution Code](01-junior-phase/01-data-structures/PairExercise.LinkedList.Solution)
 
 - Binary Search Trees
   - [Lecture](https://youtu.be/SpkOb6p9ED4)
   - [Slides](01-junior-phase/01-data-structures/02-binary-search-trees.pdf)
+  - [Pair Exercise: Binary Search Tree Solution Code](01-junior-phase/01-data-structures/PairExercise.BinarySearchTree.Solution)
+
+- Homework
+  - [Hash Tables: Take Home Lecture](https://www.youtube.com/watch?v=_ly0_BpLJdk&feature=youtu.be)
+  - [Linked List: Solution Video Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti)
+  - [Binary Search Tree: Solution Video Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B)
 
 #### Day 2 - HTML/CSS
 
