@@ -54,7 +54,7 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 #### Day 1 - Data Structures & Abstract Data Types
 
 - Stacks, Queues, Linked Lists
-  - [Lecture](https://youtu.be/NcO5uQfRD_o)
+  - [Lecture](https://youtu.be/a9rEIJJKH5k)
   - [Slides](01-junior-phase/01-data-structures/01-stacks-queues-lists.pdf)
 
 - Binary Search Trees
