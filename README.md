@@ -4,6 +4,7 @@
 
 <details><summary>Click to Expand</summary>
 
+- [Orientation Slides](orientation.pdf)
 - [📖 Better Sequelize Documentation](https://sequelize-guides.netlify.com/)
 - [🗺 Stack Map Diagram](https://fullstackacademy.github.io/stack-map/)
 - [📺 Video: Debugging Node](https://youtu.be/N9w__SIB-wA)
