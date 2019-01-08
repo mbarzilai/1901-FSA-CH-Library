@@ -83,7 +83,7 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   - [Box Diagramming Demo](https://www.youtube.com/watch?v=iuG6mEmqT4I&feature=youtu.be)
 
 - Flexbox
-  - [Lecture]()
+  - [Lecture](https://youtu.be/5rZ4FczckF8)
   - [Slides](01-junior-phase/02-html-css/flexbox.pdf)
   
 - Additional Resources
