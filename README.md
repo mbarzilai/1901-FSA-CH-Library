@@ -68,6 +68,8 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   - [Linked List: Solution Video Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti)
   - [Binary Search Tree: Solution Video Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B)
 
+- [Morning Review](https://youtu.be/dxaS95qjwh8)
+
 #### Day 2 - HTML/CSS
 
 - HTML & CSS
