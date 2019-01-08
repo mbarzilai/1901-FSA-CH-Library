@@ -85,7 +85,7 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 - Flexbox
   - [Lecture](https://youtu.be/5rZ4FczckF8)
   - [Slides](01-junior-phase/02-html-css/flexbox.pdf)
-  - Landing Page Launchpad solution in solution branch of repository
+  - Landing Page Launchpad solution in solution branch of project repository
 
 - Homework
   - [Landing Page Launchpad Solution Video](https://www.youtube.com/watch?v=yTH1Wdl_ep8&feature=youtu.be)
