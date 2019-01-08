@@ -1,4 +1,4 @@
-# 📚 1810-FSA-CH Library
+# 📚 1901-FSA-CH Library
 
 ## 🛠️ Helpful Resources/Links
 
@@ -74,13 +74,26 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 #### Day 2 - HTML/CSS
 
 - HTML & CSS
+  - [Lecture](https://youtu.be/hu_ssRctomg)
   - [Slides](01-junior-phase/02-html-css/html-and-css.pdf)
 
 - Intro to Boxing
+  - [Lecture](https://youtu.be/ZOWMMvBzRvc)
   - [Slides](01-junior-phase/02-html-css/intro-to-boxing.pdf)
+  - [Box Diagramming Demo](https://www.youtube.com/watch?v=iuG6mEmqT4I&feature=youtu.be)
 
 - Flexbox
+  - [Lecture]()
   - [Slides](01-junior-phase/02-html-css/flexbox.pdf)
+  
+- Additional Resources
+  - [Box Model Guide](https://learn.shayhowe.com/html-css/opening-the-box-model/)
+  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [FLEXBOX FROGGY, a game where you learn flexbox](http://flexboxfroggy.com/)
+  - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+  - [The Ultimate Flexbox Cheatsheet](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+  - [Responsive Web Design Tutorial](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+
 
 #### Day 3 - Collaboration
 
