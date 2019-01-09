@@ -101,17 +101,17 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 #### Day 3 - Collaboration
 
--Pairing
-  -[Slides](01-junior-phase/03-collaboration/pair-programming.pdf)
+- Pairing
+  - [Slides](01-junior-phase/03-collaboration/pair-programming.pdf)
 
--Git
-  -[Slides](01-junior-phase/03-collaboration/git.pdf)
+- Git
+  - [Slides](01-junior-phase/03-collaboration/git.pdf)
   
--Debugging (prevention)
-  -[Slides](01-junior-phase/03-collaboration/debugging-prevention.pdf)
+- Debugging (prevention)
+  - [Slides](01-junior-phase/03-collaboration/debugging-prevention.pdf)
   
--Debugging (diagnostics/diagnosis/fixing)
-  -[Slides](01-junior-phase/03-collaboration/debugging-detection-and-diagnosis.pdf)
+- Debugging (diagnostics/diagnosis/fixing)
+  - [Slides](01-junior-phase/03-collaboration/debugging-detection-and-diagnosis.pdf)
 
 #### Day 4 - The DOM
 
