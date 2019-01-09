@@ -89,7 +89,7 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 - Homework
   - [Landing Page Launchpad Solution Video](https://www.youtube.com/watch?v=yTH1Wdl_ep8&feature=youtu.be)
-  
+
 - Additional Resources
   - [Box Model Guide](https://learn.shayhowe.com/html-css/opening-the-box-model/)
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -106,12 +106,14 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 - Git
   - [Slides](01-junior-phase/03-collaboration/git.pdf)
-  
+
 - Debugging (prevention)
   - [Slides](01-junior-phase/03-collaboration/debugging-prevention.pdf)
-  
+  - [Lecture](https://youtu.be/YiVIybAv4iI)
+
 - Debugging (diagnostics/diagnosis/fixing)
   - [Slides](01-junior-phase/03-collaboration/debugging-detection-and-diagnosis.pdf)
+  - [Lecture](https://youtu.be/HUSBDfPP5Sg)
 
 #### Day 4 - The DOM
 
