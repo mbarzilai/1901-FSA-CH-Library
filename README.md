@@ -115,6 +115,9 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   - [Slides](01-junior-phase/03-collaboration/debugging-detection-and-diagnosis.pdf)
   - [Lecture](https://youtu.be/HUSBDfPP5Sg)
 
+- Homework
+  - Read these notes on [debugging JavaScript](01-junior-phase/03-collaboration/debugging-summary.md)
+
 #### Day 4 - The DOM
 
 #### Day 5 - Project: Game of Life
