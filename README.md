@@ -120,6 +120,10 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 #### Day 4 - The DOM
 
+- Pre-Reading
+  - [An Introduction to DOM Events](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)
+
+
 #### Day 5 - Project: Game of Life
 
 
