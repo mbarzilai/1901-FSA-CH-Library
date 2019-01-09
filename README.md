@@ -107,8 +107,8 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 - Git
   - [Slides](01-junior-phase/03-collaboration/git.pdf)
-  - [Lecture Part 1](https://youtu.be/87E3KQVGUy0)
-  - [Lecture Part 2](https://youtu.be/7TQGXuDrugc)
+  - [Lecture Part 1](https://youtu.be/7TQGXuDrugc)
+  - [Lecture Part 2](https://youtu.be/rosm_O1EILw)
 
 - Debugging (prevention)
   - [Slides](01-junior-phase/03-collaboration/debugging-prevention.pdf)
