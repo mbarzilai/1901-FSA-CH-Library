@@ -118,6 +118,11 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 - Homework
   - Read these notes on [debugging JavaScript](01-junior-phase/03-collaboration/debugging-summary.md)
 
+- Morning Review
+  - [Video](https://youtu.be/kmde7S2og1o)
+  - [Git Fetch/Pull Summary]()
+  - [Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
+
 #### Day 4 - The DOM
 
 #### Day 5 - Project: Game of Life
