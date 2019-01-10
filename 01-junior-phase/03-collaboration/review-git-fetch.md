@@ -41,6 +41,6 @@ Notice that there is no slash between origin and master in the `git fetch` comma
 
 Why, you ask?
 
-The `fetch` command takes to arguments: the name of the remote, and the name of the branch. These are `origin` and `master`, respectively
+The `fetch` command takes two arguments: the name of the remote, and the name of the branch. These are `origin` and `master`, respectively
 
 The `diff` command is taking a single argument: the branch to which we will compare the current working branch. That branch is called `origin/master`, because it is a tracking branch. We could just as easily compare to a different, non-tracking branch such as `git diff featureA`.
