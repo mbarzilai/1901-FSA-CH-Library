@@ -103,9 +103,12 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 - Pairing
   - [Slides](01-junior-phase/03-collaboration/pair-programming.pdf)
+  - [Lecture](https://youtu.be/87E3KQVGUy0)
 
 - Git
   - [Slides](01-junior-phase/03-collaboration/git.pdf)
+  - [Lecture Part 1](https://youtu.be/7TQGXuDrugc)
+  - [Lecture Part 2](https://youtu.be/rosm_O1EILw)
 
 - Debugging (prevention)
   - [Slides](01-junior-phase/03-collaboration/debugging-prevention.pdf)
@@ -124,6 +127,13 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   - [Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
 
 #### Day 4 - The DOM
+
+- Intro to the DOM
+  - [Slides](01-junior-phase/04-DOM-events/intro-to-the-dom.pdf)
+  - [Lecture](https://youtu.be/yioG-BIgR3Y)
+
+- Event Listeners and Handlers
+  - [Slides](01-junior-phase/04-DOM-events/event-listeners-and-handlers.pdf)
 
 #### Day 5 - Project: Game of Life
 
