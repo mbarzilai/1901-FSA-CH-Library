@@ -125,6 +125,7 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 - Intro to the DOM
   - [Slides](01-junior-phase/04-DOM-events/intro-to-the-dom.pdf)
+  - [Lecture](https://youtu.be/yioG-BIgR3Y)
 
 - Event Listeners and Handlers
   - [Slides](01-junior-phase/04-DOM-events/event-listeners-and-handlers.pdf)
