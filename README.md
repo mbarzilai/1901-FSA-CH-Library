@@ -150,6 +150,10 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 - Game of Life
   - [Slides](01-junior-phase/05-game-of-life/game-of-life-intro.pdf)
   - [Lecture Demo Code](01-junior-phase/05-game-of-life/lecture-demo)
+  - [Solution Code](01-junior-phase/05-game-of-life/Solution.GameOfLife)
+  
+- Homework
+  - [Game of Life Solution Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC)
 
 ### Week 2
 
