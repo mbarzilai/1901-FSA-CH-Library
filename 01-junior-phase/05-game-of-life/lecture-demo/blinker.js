@@ -18,11 +18,12 @@ const addBlinker = (text) => {
 
   const item = document.getElementById('item')
   item.appendChild(newBlinker)
-}
 
+}
 // addBlinker('first item')
+
 // const addDay = (day) => {
 //   addBlinker(day)
 // }
 const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday']
-days.forEach(newBlinker)
+days.forEach(addBlinker)

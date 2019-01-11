@@ -137,6 +137,9 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   - [Lecture](https://youtu.be/o457yn8OLXU)
   - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-)
 
+- Morning Review
+  - [Video](https://youtu.be/Kbs4qfKwfQM)
+
 #### Day 5 - Project: Game of Life
 
 
