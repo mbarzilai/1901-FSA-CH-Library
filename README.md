@@ -51,6 +51,7 @@
 ### Week 1
 
 Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
+
 [**Weekly Review**](01-junior-phase/weekly-reviews/week-1.md)
 
 #### Day 1 - Data Structures & Abstract Data Types
