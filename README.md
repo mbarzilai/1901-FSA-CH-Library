@@ -135,6 +135,7 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 - Event Listeners and Handlers
   - [Slides](01-junior-phase/04-DOM-events/event-listeners-and-handlers.pdf)
   - [Lecture](https://youtu.be/o457yn8OLXU)
+  - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-)
 
 #### Day 5 - Project: Game of Life
 
