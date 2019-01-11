@@ -137,11 +137,17 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   - [Lecture](https://youtu.be/o457yn8OLXU)
   - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-)
 
+- Unconscious Bias
+  - [Slides](01-junior-phase/unconscious-bias.pdf)
+
 - Morning Review
   - [Video](https://youtu.be/Kbs4qfKwfQM)
 
 #### Day 5 - Project: Game of Life
 
+- Game of Life
+  - [Slides](01-junior-phase/05-game-of-life/game-of-life-intro.pdf)
+  - [Lecture Demo Code](01-junior-phase/05-game-of-life/lecture-demo)
 
 ### Week 2
 
