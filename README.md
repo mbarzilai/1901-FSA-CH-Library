@@ -52,6 +52,8 @@
 
 Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
+<details><summary>Click to Expand</summary>
+
 [**Weekly Review**](01-junior-phase/weekly-reviews/week-1.md)
 
 #### Day 1 - Data Structures & Abstract Data Types
@@ -151,15 +153,33 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   - [Slides](01-junior-phase/05-game-of-life/game-of-life-intro.pdf)
   - [Lecture Demo Code](01-junior-phase/05-game-of-life/lecture-demo)
   - [Solution Code](01-junior-phase/05-game-of-life/Solution.GameOfLife)
-  
+
 - Homework
   - [Game of Life Solution Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC)
+
+</details>
 
 ### Week 2
 
 Algorithms, Node, Express, Postgres, Sequelize
 
 #### Day 6 - Algorithms, Sorting & Client/Server Architecture
+
+- Algorithms and Analysis
+  - [Lecture](https://youtu.be/FrTTOlXG8HY)
+  - [Slides](01-junior-phase/06-algorithms-and-sorting/algorithms-and-analysis.pdf)
+
+- Bubble Sort
+  - [Slides](01-junior-phase/06-algorithms-and-sorting/bubble-sort.pdf)
+
+- Merge Sort
+  - [Slides](01-junior-phase/06-algorithms-and-sorting/merge-sort.pdf)
+
+- Algorithms and Analysis: Final Thoughts
+  - [Slides](01-junior-phase/06-algorithms-and-sorting/final-considerations.pdf)
+
+- Client-Server Architecture and HTTP
+  - [Slides](01-junior-phase/06-algorithms-and-sorting/client-server-architecture.pdf)
 
 #### Day 7 - Node & Express
 
