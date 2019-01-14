@@ -176,11 +176,14 @@ Algorithms, Node, Express, Postgres, Sequelize
 - Merge Sort
   - [Lecture](https://youtu.be/E954tzOwD3A)
   - [Slides](01-junior-phase/06-algorithms-and-sorting/merge-sort.pdf)
+  - [Solution Video: Bubble and Merge](https://www.youtube.com/watch?v=Dz0NkaBp-FM)
 
 - Algorithms and Analysis: Final Considerations
+  - [Lecture](https://youtu.be/ypN8f1eNe3g)
   - [Slides](01-junior-phase/06-algorithms-and-sorting/final-considerations.pdf)
 
 - Client-Server Architecture and HTTP
+  - [Lecture](https://youtu.be/Oi_sZ3f2bjw)
   - [Slides](01-junior-phase/06-algorithms-and-sorting/client-server-architecture.pdf)
 
 #### Day 7 - Node & Express
