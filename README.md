@@ -170,6 +170,7 @@ Algorithms, Node, Express, Postgres, Sequelize
   - [Slides](01-junior-phase/06-algorithms-and-sorting/algorithms-and-analysis.pdf)
 
 - Bubble Sort
+  - [Lecture](https://youtu.be/PdahAKOisLs)
   - [Slides](01-junior-phase/06-algorithms-and-sorting/bubble-sort.pdf)
 
 - Merge Sort
