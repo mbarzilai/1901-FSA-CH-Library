@@ -188,6 +188,19 @@ Algorithms, Node, Express, Postgres, Sequelize
 
 #### Day 7 - Node & Express
 
+- Node Pt 1: Modules 📦
+  - [Slides]()
+
+- Node Pt 2: Asynchronicity & Callbacks ↩️
+  - [Slides]()
+
+- Express Pt 1: The Basics 🚄
+  - [Slides]()
+
+- Express Pt 2: REST 💤
+  - [Slides]()
+
+
 #### Day 8 - Databases & SQL
 
 #### Day 9 - Database Drivers & Asynchronicity
