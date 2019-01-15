@@ -201,6 +201,7 @@ Algorithms, Node, Express, Postgres, Sequelize
   - [Slides](01-junior-phase/07-node-express/1b-asynchronicity-intro.pdf)
 
 - Express Pt 1: The Basics 🚄
+  - [Lecture](https://youtu.be/8-8qQXLAo_g)
   - [Slides](01-junior-phase/07-node-express/2a-express-101.pdf)
 
 - Express Pt 2: REST 💤
