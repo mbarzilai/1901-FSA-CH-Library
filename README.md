@@ -188,6 +188,7 @@ Algorithms, Node, Express, Postgres, Sequelize
 
 - Morning Review
   - [Video](https://youtu.be/VzlRZn9DSTY)
+  - [Code](01-junior-phase/06-algorithms-and-sorting/morning-review.js)
 
 #### Day 7 - Node & Express
 
