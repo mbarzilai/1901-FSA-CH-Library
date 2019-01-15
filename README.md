@@ -209,6 +209,10 @@ Algorithms, Node, Express, Postgres, Sequelize
   - [Slides](01-junior-phase/07-node-express/2b-express-201.pdf)
   - [Demo Code](01-junior-phase/07-node-express/express-demo)
 
+- Homework
+  - [Install Postgres](https://learn.fullstackacademy.com/workshop/5acf8b4bac104a0004dffaba/landing)
+  - [Review Video](https://www.youtube.com/watch?v=UZ5MO-5a2yI)
+
 
 #### Day 8 - Databases & SQL
 
