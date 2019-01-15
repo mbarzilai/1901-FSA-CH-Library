@@ -189,16 +189,16 @@ Algorithms, Node, Express, Postgres, Sequelize
 #### Day 7 - Node & Express
 
 - Node Pt 1: Modules 📦
-  - [Slides]()
+  - [Slides](01-junior-phase/07-node-express/1a-node-intro.pdf)
 
 - Node Pt 2: Asynchronicity & Callbacks ↩️
-  - [Slides]()
+  - [Slides](01-junior-phase/07-node-express/1b-asynchronicity-intro.pdf)
 
 - Express Pt 1: The Basics 🚄
-  - [Slides]()
+  - [Slides](01-junior-phase/07-node-express/2a-express-101.pdf)
 
 - Express Pt 2: REST 💤
-  - [Slides]()
+  - [Slides](01-junior-phase/07-node-express/2b-express-201.pdf)
 
 
 #### Day 8 - Databases & SQL
