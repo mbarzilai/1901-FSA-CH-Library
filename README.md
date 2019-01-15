@@ -213,6 +213,75 @@ Algorithms, Node, Express, Postgres, Sequelize
   - [Install Postgres](https://learn.fullstackacademy.com/workshop/5acf8b4bac104a0004dffaba/landing)
   - [Review Video](https://www.youtube.com/watch?v=UZ5MO-5a2yI)
 
+<details><summary>Node/Express Quiz (Click to Open) 📝</summary>
+
+**Q1: What does the following code log to the console (do not run this code in a repl - reason about it on your own):**
+
+```javascript
+console.log(‘hello’)
+setTimeout(() => {
+  console.log(‘world’)
+}, 0)
+console.log(‘goodbye’)
+```
+
+A. hello, world, goodbye
+
+B. hello, goodbye, world
+
+C. goodbye, world, hello
+
+D. world, hello, goodbye
+
+
+**Q2: Which of the following is NOT a BUILT-IN Node module?**
+
+A.  http
+
+B. fs
+
+C. express
+
+D. path
+
+**Q3: What is the advantage of performing a “Big O” analysis on an algorithm?**
+
+A. To benchmark the actual time it takes for an algorithm to run
+
+B. To determine if one algorithm is better than another
+
+C. To decide between heuristics when trying to come up with practical solutions to normally intractable problems
+
+D. To compare the growth curves of algorithms as their input sizes get very, very large
+
+**Q4: What is the purpose of the package.json file in a Node project?**
+
+A. Store a list of dependencies for the project
+
+B. Give the project a name
+
+C. Store metadata about the project
+
+D. All of the above
+
+E. None of the above
+
+
+**Q5: Which of the following Express route handlers will be executed for a request like GET /puppies HTTP/1.1. Select ALL THAT APPLY.**
+
+A. `app.use((req, res) => {})`
+
+B. `app.get(‘/’, (req, res) => {})`
+
+C. `app.get(‘/puppies’, (req, res) => {})`
+
+D. `app.use(‘/’, (req, res) => {})`
+
+**Q6 (short answer): In as much detail as possible, describe what happens when you require a module in Node (ex. require(‘./someFile’))**
+
+
+</details>
+
 
 #### Day 8 - Databases & SQL
 
