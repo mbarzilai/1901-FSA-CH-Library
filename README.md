@@ -186,6 +186,9 @@ Algorithms, Node, Express, Postgres, Sequelize
   - [Lecture](https://youtu.be/Oi_sZ3f2bjw)
   - [Slides](01-junior-phase/06-algorithms-and-sorting/client-server-architecture.pdf)
 
+- Morning Review
+  - [Video](https://youtu.be/VzlRZn9DSTY)
+
 #### Day 7 - Node & Express
 
 - Node Pt 1: Modules 📦
