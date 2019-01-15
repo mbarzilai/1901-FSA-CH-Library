@@ -204,7 +204,8 @@ Algorithms, Node, Express, Postgres, Sequelize
   - [Lecture](https://youtu.be/8-8qQXLAo_g)
   - [Slides](01-junior-phase/07-node-express/2a-express-101.pdf)
 
-- Express Pt 2: REST 💤
+- Express Pt 2: params, next(), static 😸
+  - [Lecture](https://youtu.be/NJTgsEQlSOw)
   - [Slides](01-junior-phase/07-node-express/2b-express-201.pdf)
 
 
