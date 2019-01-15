@@ -188,7 +188,7 @@ Algorithms, Node, Express, Postgres, Sequelize
 
 - Morning Review
   - [Video](https://youtu.be/VzlRZn9DSTY)
-  - [Code](01-junior-phase/06-algorithms-and-sorting/morning-review.js)
+  - [Demo Code](01-junior-phase/06-algorithms-and-sorting/morning-review.js)
 
 #### Day 7 - Node & Express
 
@@ -207,6 +207,7 @@ Algorithms, Node, Express, Postgres, Sequelize
 - Express Pt 2: params, next(), static 😸
   - [Lecture](https://youtu.be/NJTgsEQlSOw)
   - [Slides](01-junior-phase/07-node-express/2b-express-201.pdf)
+  - [Demo Code](01-junior-phase/07-node-express/express-demo)
 
 
 #### Day 8 - Databases & SQL
